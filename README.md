@@ -27,3 +27,16 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 ### 2.2.3 Machine Learning Objective and Constraints 
 - Minimize RMSE.
 - Try to provide some interpretability.
+
+|Model | 
+
+svd               1.0726424481315167
+svdpp             1.0726973299570828
+bsl_algo           1.072739481395958
+knn_bsl_u          1.072741563865369
+knn_bsl_m         1.0728213101702937
+xgb_final         1.0743198685186928
+xgb_all_models    1.0757537009157945
+first_algo         1.076373581778953
+xgb_knn_bsl       1.0784249635688925
+xgb_bsl            1.079601535496083
