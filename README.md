@@ -41,3 +41,8 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 |first_algo     |    1.076373581778953|
 |xgb_knn_bsl    |   1.0784249635688925|
 |xgb_bsl        |    1.079601535496083|
+
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
