@@ -33,8 +33,8 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 
 |Sr.No | #Model | #rmse|
 |-----| -----|-----|
-|1 |svd         |       1.0726424481315167 |   
-|2|svdpp          |      1.0726973299570828 |
+|1 |SVD         |       1.0726424481315167 |   
+|2|SVDpp          |      1.0726973299570828 |
 |3|bsl_algo       |      1.072739481395958|
 |4|knn_bsl_u      |     1.072741563865369|
 |5|knn_bsl_m      |   1.0728213101702937|
