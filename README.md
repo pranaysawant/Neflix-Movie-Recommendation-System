@@ -30,7 +30,6 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 
 |Model | rmse|
 
-|-----| ------------|
 
 |svd         |       1.0726424481315167    |
 |svdpp          |      1.0726973299570828 |
