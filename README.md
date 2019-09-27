@@ -14,3 +14,16 @@ Now there are a lot of interesting alternative approaches to how Cinematch works
 
 ## 1.2 Problem Statement 
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
+
+
+## 2.2 Mapping the real world problem to a Machine Learning Problem 
+### 2.2.1 Type of Machine Learning Problem 
+- For a given movie and user we need to predict the rating would be given by him/her to the movie. 
+- The given problem is a Recommendation problem 
+- It can also seen as a Regression problem 
+### 2.2.2 Performance metric 
+- Mean Absolute Percentage Error: https://en.wikipedia.org/wiki/Mean_absolute_percentage_error
+- Root Mean Square Error: https://en.wikipedia.org/wiki/Root-mean-square_deviation
+### 2.2.3 Machine Learning Objective and Constraints 
+- Minimize RMSE.
+- Try to provide some interpretability.
