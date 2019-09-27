@@ -28,6 +28,9 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 - Minimize RMSE.
 - Try to provide some interpretability.
 
+
+## Final Result
+
 |Sr.No | #Model | #rmse|
 |-----| -----|-----|
 |1 |svd         |       1.0726424481315167 |   
